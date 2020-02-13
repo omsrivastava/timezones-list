@@ -1,0 +1,24 @@
+{
+  "name": "timezones-list",
+  "version": "1.0.0",
+  "description": "List of all timezones",
+  "author": "Om Prakash Srivastava",
+  "license": "MIT",
+  "main": "index.js",
+  "homepage": "https://github.com/omsrivastava/timezones#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omsrivastava/timezones.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/omsrivastava/timezones/issues"
+  },
+  "keywords": [
+    "timezones",
+    "timezone",
+    "utc"
+  ]
+}

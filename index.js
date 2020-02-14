@@ -1,3 +1,1 @@
-var timezones = require('./timezones.json');
-
-module.exports = JSON.parse(timezones);
+module.exports = require('./timezones.json');

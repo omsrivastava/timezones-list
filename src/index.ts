@@ -1,12 +1,10 @@
-import _timezones from "./timezones.json"
+import timezones from "./timezones.json";
 
 interface TimeZone {
-        label: string;
-        tzCode: string;
-        name: string;
-        utc: string;
-    }
+  label: string;
+  tzCode: string;
+  name: string;
+  utc: string;
+}
 
-const timezones: TimeZone[] = _timezones
-
-export default timezones
+export default timezones as TimeZone[];

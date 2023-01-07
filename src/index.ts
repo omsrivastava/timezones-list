@@ -7,4 +7,5 @@ interface TimeZone {
   utc: string;
 }
 
+export { TimeZone };
 export default timezones as TimeZone[];

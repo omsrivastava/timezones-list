@@ -4,5 +4,6 @@ interface TimeZone {
     name: string;
     utc: string;
 }
+export { TimeZone };
 declare const _default: TimeZone[];
 export default _default;

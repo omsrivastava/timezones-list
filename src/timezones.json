@@ -1598,7 +1598,7 @@
 	{
 		"label":"Europe/Kyiv (GMT+02:00)",
 		"tzCode":"Europe/Kyiv",
-		"name":"(GMT+02:00) Kyiv, Kharkiv, Donetsk, Odessa, Dnipro",
+		"name":"(GMT+02:00) Kyiv, Kharkiv, Donetsk, Odesa, Dnipro",
 		"utc":"+02:00"
 	},
 	{

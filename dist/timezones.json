@@ -540,8 +540,8 @@
         "utc": "-05:00"
     },
     {
-        "label": "America/AnguillaSandy Hill (GMT-04:00)",
-        "tzCode": "America/AnguillaSandy Hill",
+        "label": "America/Anguilla (GMT-04:00)",
+        "tzCode": "America/Anguilla",
         "name": "(GMT-04:00) The Valley, Blowing Point Village, Sandy Ground Village, The Quarter, Sandy Hill",
         "utc": "-04:00"
     },
@@ -2346,8 +2346,8 @@
         "utc": "+10:00"
     },
     {
-        "label": "Pacific/GuamVillage (GMT+10:00)",
-        "tzCode": "Pacific/GuamVillage",
+        "label": "Pacific/Guam (GMT+10:00)",
+        "tzCode": "Pacific/Guam",
         "name": "(GMT+10:00) Dededo Village, Yigo Village, Tamuning, Tamuning-Tumon-Harmon Village, Mangilao Village",
         "utc": "+10:00"
     },

@@ -1598,7 +1598,7 @@
     {
         "label": "Europe/Kyiv (GMT+02:00)",
         "tzCode": "Europe/Kyiv",
-        "name": "(GMT+02:00) Kyiv, Kharkiv, Donetsk, Odessa, Dnipro",
+        "name": "(GMT+02:00) Kyiv, Kharkiv, Donetsk, Odesa, Dnipro",
         "utc": "+02:00"
     },
     {
@@ -1638,8 +1638,8 @@
         "utc": "+02:00"
     },
     {
-        "label": "Europe/Zaporozhye (GMT+02:00)",
-        "tzCode": "Europe/Zaporozhye",
+        "label": "Europe/Zaporizhzhia (GMT+02:00)",
+        "tzCode": "Europe/Zaporizhzhia",
         "name": "(GMT+02:00) Luhansk, Sevastopol, Sievierodonetsk, Alchevsk, Lysychansk",
         "utc": "+02:00"
     },

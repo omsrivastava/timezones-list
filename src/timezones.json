@@ -1974,10 +1974,10 @@
 		"utc":"+06:00"
 	},
 	{
-		"label":"Asia/Almaty (GMT+06:00)",
+		"label":"Asia/Almaty (GMT+05:00)",
 		"tzCode":"Asia/Almaty",
-		"name":"(GMT+06:00) Almaty, Karagandy, Shymkent, Taraz, Nur-Sultan",
-		"utc":"+06:00"
+		"name":"(GMT+05:00) Almaty, Karagandy, Shymkent, Taraz, Nur-Sultan",
+		"utc":"+05:00"
 	},
 	{
 		"label":"Asia/Bishkek (GMT+06:00)",

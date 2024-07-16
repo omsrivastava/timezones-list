@@ -1956,8 +1956,8 @@
 		"utc":"+05:30"
 	},
 	{
-		"label":"Asia/Kolkata (GMT+05:30)",
-		"tzCode":"Asia/Kolkata",
+		"label":"Asia/Calcutta (GMT+05:30)",
+		"tzCode":"Asia/Calcutta",
 		"name":"(GMT+05:30) Mumbai, Delhi, Bengaluru, Kolkata, Chennai",
 		"utc":"+05:30"
 	},

@@ -5,6 +5,9 @@
   "author": "Om Srivastava",
   "license": "MIT",
   "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
   "homepage": "https://github.com/omsrivastava/timezones#readme",
   "repository": {
     "type": "git",

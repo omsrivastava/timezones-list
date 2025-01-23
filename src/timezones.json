@@ -2370,10 +2370,10 @@
 		"utc":"+10:30"
 	},
 	{
-		"label":"Antarctica/Casey (GMT+11:00)",
+		"label":"Antarctica/Casey (GMT+8:00)",
 		"tzCode":"Antarctica/Casey",
-		"name":"(GMT+11:00) Casey",
-		"utc":"+11:00"
+		"name":"(GMT+8:00) Casey",
+		"utc":"+8:00"
 	},
 	{
 		"label":"Asia/Magadan (GMT+11:00)",
